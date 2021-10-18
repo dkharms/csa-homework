@@ -1,0 +1,101 @@
+100
+[TETRAHEDRON] Side = 9 Surface Area = 140.296115 Density = 768.000000
+[TETRAHEDRON] Side = 28 Surface Area = 1357.927833 Density = 780.000000
+[SPHERE] Radius = 12 Surface Area = 1809.557368 Density = 774.000000
+[TETRAHEDRON] Side = 91 Surface Area = 14343.112737 Density = 611.000000
+[TETRAHEDRON] Side = 108 Surface Area = 20202.640619 Density = 966.000000
+[SPHERE] Radius = 60 Surface Area = 45238.934212 Density = 58.000000
+[TETRAHEDRON] Side = 168 Surface Area = 48885.401993 Density = 568.000000
+[TETRAHEDRON] Side = 169 Surface Area = 49469.103115 Density = 924.000000
+[TETRAHEDRON] Side = 172 Surface Area = 51240.991091 Density = 586.000000
+[SPHERE] Radius = 79 Surface Area = 78426.719004 Density = 960.000000
+[SPHERE] Radius = 81 Surface Area = 82447.957601 Density = 589.000000
+[TETRAHEDRON] Side = 240 Surface Area = 99766.126516 Density = 256.000000
+[TETRAHEDRON] Side = 242 Surface Area = 101435.823494 Density = 716.000000
+[SPHERE] Radius = 92 Surface Area = 106361.760880 Density = 593.000000
+[TETRAHEDRON] Side = 256 Surface Area = 113511.681725 Density = 79.000000
+[TETRAHEDRON] Side = 278 Surface Area = 133859.814612 Density = 676.000000
+[TETRAHEDRON] Side = 280 Surface Area = 135792.783313 Density = 196.000000
+[SPHERE] Radius = 106 Surface Area = 141195.740223 Density = 55.000000
+[TETRAHEDRON] Side = 302 Surface Area = 157969.961854 Density = 367.000000
+[TETRAHEDRON] Side = 331 Surface Area = 189765.218528 Density = 874.000000
+[TETRAHEDRON] Side = 352 Surface Area = 214608.023261 Density = 90.000000
+[TETRAHEDRON] Side = 355 Surface Area = 218281.703024 Density = 298.000000
+[SPHERE] Radius = 133 Surface Area = 222286.529797 Density = 536.000000
+[PARALLELEPIPED] Width = 217 Length = 391 Height = 151 Surface Area = 280830.000000 Density = 313.000000
+[TETRAHEDRON] Side = 430 Surface Area = 320256.194319 Density = 838.000000
+[PARALLELEPIPED] Width = 402 Length = 59 Height = 221 Surface Area = 322802.000000 Density = 542.000000
+[SPHERE] Radius = 162 Surface Area = 329791.830403 Density = 679.000000
+[TETRAHEDRON] Side = 452 Surface Area = 353864.908190 Density = 721.000000
+[SPHERE] Radius = 169 Surface Area = 358908.111117 Density = 695.000000
+[TETRAHEDRON] Side = 485 Surface Area = 407421.651210 Density = 994.000000
+[PARALLELEPIPED] Width = 203 Length = 302 Height = 299 Surface Area = 422808.000000 Density = 813.000000
+[PARALLELEPIPED] Width = 514 Length = 399 Height = 36 Surface Area = 449772.000000 Density = 379.000000
+[TETRAHEDRON] Side = 527 Surface Area = 481040.738735 Density = 501.000000
+[TETRAHEDRON] Side = 533 Surface Area = 492056.581871 Density = 699.000000
+[TETRAHEDRON] Side = 538 Surface Area = 501331.713946 Density = 274.000000
+[SPHERE] Radius = 202 Surface Area = 512758.186548 Density = 612.000000
+[PARALLELEPIPED] Width = 470 Length = 291 Height = 187 Surface Area = 519258.000000 Density = 91.000000
+[SPHERE] Radius = 205 Surface Area = 528101.725068 Density = 829.000000
+[TETRAHEDRON] Side = 590 Surface Area = 602926.886115 Density = 340.000000
+[PARALLELEPIPED] Width = 297 Length = 650 Height = 217 Surface Area = 609176.000000 Density = 996.000000
+[TETRAHEDRON] Side = 594 Surface Area = 611129.878739 Density = 245.000000
+[PARALLELEPIPED] Width = 64 Length = 542 Height = 497 Surface Area = 627010.000000 Density = 149.000000
+[TETRAHEDRON] Side = 606 Surface Area = 636071.410368 Density = 637.000000
+[PARALLELEPIPED] Width = 448 Length = 167 Height = 320 Surface Area = 641152.000000 Density = 941.000000
+[SPHERE] Radius = 248 Surface Area = 772882.058266 Density = 124.000000
+[TETRAHEDRON] Side = 669 Surface Area = 775198.391486 Density = 758.000000
+[PARALLELEPIPED] Width = 150 Length = 528 Height = 486 Surface Area = 776592.000000 Density = 304.000000
+[TETRAHEDRON] Side = 683 Surface Area = 807982.649172 Density = 255.000000
+[TETRAHEDRON] Side = 684 Surface Area = 810350.362626 Density = 960.000000
+[SPHERE] Radius = 256 Surface Area = 823549.664583 Density = 902.000000
+[PARALLELEPIPED] Width = 40 Length = 309 Height = 629 Surface Area = 866322.000000 Density = 878.000000
+[TETRAHEDRON] Side = 714 Surface Area = 882992.573495 Density = 544.000000
+[PARALLELEPIPED] Width = 327 Length = 324 Height = 486 Surface Area = 1002132.000000 Density = 665.000000
+[TETRAHEDRON] Side = 796 Surface Area = 1097455.104489 Density = 283.000000
+[TETRAHEDRON] Side = 801 Surface Area = 1111285.530187 Density = 793.000000
+[PARALLELEPIPED] Width = 868 Length = 123 Height = 399 Surface Area = 1224594.000000 Density = 291.000000
+[PARALLELEPIPED] Width = 940 Length = 440 Height = 209 Surface Area = 1307482.000000 Density = 806.000000
+[TETRAHEDRON] Side = 874 Surface Area = 1323072.042682 Density = 279.000000
+[SPHERE] Radius = 327 Surface Area = 1343709.443423 Density = 434.000000
+[PARALLELEPIPED] Width = 913 Length = 468 Height = 225 Surface Area = 1366668.000000 Density = 21.000000
+[SPHERE] Radius = 333 Surface Area = 1393472.271056 Density = 640.000000
+[TETRAHEDRON] Side = 913 Surface Area = 1443783.859614 Density = 793.000000
+[TETRAHEDRON] Side = 927 Surface Area = 1488401.488417 Density = 521.000000
+[TETRAHEDRON] Side = 954 Surface Area = 1576367.152781 Density = 794.000000
+[PARALLELEPIPED] Width = 145 Length = 207 Height = 805 Surface Area = 1589530.000000 Density = 154.000000
+[PARALLELEPIPED] Width = 733 Length = 812 Height = 212 Surface Area = 1591072.000000 Density = 233.000000
+[PARALLELEPIPED] Width = 661 Length = 662 Height = 362 Surface Area = 1615816.000000 Density = 58.000000
+[PARALLELEPIPED] Width = 66 Length = 597 Height = 852 Surface Area = 1643076.000000 Density = 287.000000
+[SPHERE] Radius = 379 Surface Area = 1805046.041417 Density = 433.000000
+[PARALLELEPIPED] Width = 521 Length = 997 Height = 456 Surface Area = 1929898.000000 Density = 955.000000
+[PARALLELEPIPED] Width = 658 Length = 61 Height = 704 Surface Area = 1997972.000000 Density = 320.000000
+[PARALLELEPIPED] Width = 443 Length = 663 Height = 691 Surface Area = 2154606.000000 Density = 96.000000
+[PARALLELEPIPED] Width = 885 Length = 180 Height = 613 Surface Area = 2155148.000000 Density = 711.000000
+[SPHERE] Radius = 421 Surface Area = 2227276.094060 Density = 881.000000
+[SPHERE] Radius = 432 Surface Area = 2345186.349534 Density = 438.000000
+[PARALLELEPIPED] Width = 141 Length = 870 Height = 979 Surface Area = 2438300.000000 Density = 624.000000
+[SPHERE] Radius = 475 Surface Area = 2835287.369865 Density = 69.000000
+[SPHERE] Radius = 493 Surface Area = 3054243.811449 Density = 721.000000
+[SPHERE] Radius = 495 Surface Area = 3079074.959783 Density = 733.000000
+[PARALLELEPIPED] Width = 921 Length = 896 Height = 510 Surface Area = 3110052.000000 Density = 403.000000
+[SPHERE] Radius = 523 Surface Area = 3437266.787775 Density = 796.000000
+[PARALLELEPIPED] Width = 574 Length = 439 Height = 997 Surface Area = 3636546.000000 Density = 299.000000
+[SPHERE] Radius = 566 Surface Area = 4025712.224534 Density = 597.000000
+[PARALLELEPIPED] Width = 824 Length = 383 Height = 962 Surface Area = 4067448.000000 Density = 552.000000
+[SPHERE] Radius = 572 Surface Area = 4111515.403088 Density = 295.000000
+[SPHERE] Radius = 598 Surface Area = 4493784.397177 Density = 629.000000
+[SPHERE] Radius = 642 Surface Area = 5179405.577897 Density = 802.000000
+[SPHERE] Radius = 677 Surface Area = 5759532.077309 Density = 542.000000
+[SPHERE] Radius = 719 Surface Area = 6496323.519170 Density = 688.000000
+[SPHERE] Radius = 741 Surface Area = 6899955.343303 Density = 446.000000
+[SPHERE] Radius = 745 Surface Area = 6974649.850235 Density = 226.000000
+[SPHERE] Radius = 769 Surface Area = 7431261.492878 Density = 58.000000
+[SPHERE] Radius = 790 Surface Area = 7842671.900422 Density = 202.000000
+[SPHERE] Radius = 834 Surface Area = 8740614.479041 Density = 809.000000
+[SPHERE] Radius = 861 Surface Area = 9315714.430207 Density = 493.000000
+[SPHERE] Radius = 879 Surface Area = 9709293.157849 Density = 800.000000
+[SPHERE] Radius = 895 Surface Area = 10065977.021367 Density = 102.000000
+[SPHERE] Radius = 960 Surface Area = 11581167.158193 Density = 63.000000
+[SPHERE] Radius = 981 Surface Area = 12093384.990805 Density = 54.000000
+[SPHERE] Radius = 999 Surface Area = 12541250.439501 Density = 978.000000

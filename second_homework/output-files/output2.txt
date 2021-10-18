@@ -1,0 +1,16 @@
+15
+[TETRAHEDRON] Side = 1 Surface Area = 1.732051 Density = 37.103638
+[TETRAHEDRON] Side = 26 Surface Area = 1170.866346 Density = 92.692888
+[PARALLELEPIPED] Width = 24 Length = 32 Height = 3 Surface Area = 1698.000000 Density = 39.906658
+[TETRAHEDRON] Side = 46 Surface Area = 3665.019509 Density = 97.012728
+[PARALLELEPIPED] Width = 13 Length = 93 Height = 23 Surface Area = 4074.000000 Density = 54.752967
+[SPHERE] Radius = 20 Surface Area = 5026.548246 Density = 77.109574
+[SPHERE] Radius = 21 Surface Area = 5541.769441 Density = 99.890878
+[SPHERE] Radius = 30 Surface Area = 11309.733553 Density = 26.086195
+[SPHERE] Radius = 41 Surface Area = 21124.069003 Density = 91.915625
+[PARALLELEPIPED] Width = 83 Length = 80 Height = 43 Surface Area = 24116.000000 Density = 15.106787
+[PARALLELEPIPED] Width = 94 Length = 41 Height = 77 Surface Area = 34042.000000 Density = 51.163063
+[SPHERE] Radius = 69 Surface Area = 59828.490495 Density = 59.082124
+[SPHERE] Radius = 78 Surface Area = 76453.798818 Density = 28.431598
+[SPHERE] Radius = 95 Surface Area = 113411.494795 Density = 32.746652
+[SPHERE] Radius = 95 Surface Area = 113411.494795 Density = 72.711638

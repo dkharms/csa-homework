@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.h
+shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.cpp
+cstdlib
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cstdlib
+shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+sphere.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.h
+parallelepiped.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.h
+tetrahedron.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.h
+cstring
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cstring
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+cstdio
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cstdio
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.h
+shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.h
+shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+

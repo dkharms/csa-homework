@@ -1,0 +1,11 @@
+10
+[TETRAHEDRON] Side = 6 Surface Area = 62.353829 Density = 0.477409
+[PARALLELEPIPED] Width = 89 Length = 5 Height = 10 Surface Area = 2870.000000 Density = 45.164460
+[PARALLELEPIPED] Width = 17 Length = 11 Height = 33 Surface Area = 3674.000000 Density = 62.575749
+[SPHERE] Radius = 33 Surface Area = 13684.777599 Density = 19.059732
+[PARALLELEPIPED] Width = 84 Length = 0 Height = 52 Surface Area = 14144.000000 Density = 59.797627
+[PARALLELEPIPED] Width = 27 Length = 30 Height = 73 Surface Area = 16220.000000 Density = 66.837528
+[PARALLELEPIPED] Width = 37 Length = 32 Height = 70 Surface Area = 17348.000000 Density = 63.729705
+[PARALLELEPIPED] Width = 50 Length = 23 Height = 75 Surface Area = 21050.000000 Density = 54.097521
+[PARALLELEPIPED] Width = 18 Length = 93 Height = 98 Surface Area = 26084.000000 Density = 64.075267
+[SPHERE] Radius = 71 Surface Area = 63347.074267 Density = 63.413156
