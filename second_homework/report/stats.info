@@ -1,0 +1,15 @@
+name | bytes
+------------
+parallelepiped.cpp 839
+parallelepiped.h 410
+shape.cpp 1407
+shape.h 386
+sphere.cpp 590
+sphere.h 332
+tetrahedron.cpp 605
+tetrahedron.h 353
+container.cpp 2634
+container.h 427
+main.cpp 1589
+------------
+total bytes 9572
