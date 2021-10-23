@@ -11,6 +11,8 @@ public:
 
     double calculate_surface_area() override;
 
+    void to_string() override;
+
     void to_string(FILE *outputFile) override;
 };
 

@@ -54,5 +54,10 @@ shape *create_shape(char *shapeType, FILE *inputFile) {
 void shape::to_string(FILE *outputFile) {
 }
 
+void shape::to_string() {
+}
+
 shape::~shape() {
 }
+
+

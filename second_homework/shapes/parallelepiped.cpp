@@ -16,3 +16,8 @@ void parallelepiped::to_string(FILE *outputFile) {
     fprintf(outputFile, "[PARALLELEPIPED] Width = %d Length = %d Height = %d Surface Area = %lf Density = %lf\n",
             width, length, height, calculate_surface_area(), density);
 }
+
+void parallelepiped::to_string() {
+    printf("[PARALLELEPIPED] Width = %d Length = %d Height = %d Surface Area = %lf Density = %lf\n",
+           width, length, height, calculate_surface_area(), density);
+}

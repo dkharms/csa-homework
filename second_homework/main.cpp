@@ -17,7 +17,7 @@ void print_warning(char *message) {
 
 
 int main(int argc, char *argv[]) {
-    srand((unsigned)time(nullptr));
+    srand((unsigned) time(nullptr));
 
     int containerSize;
     char typeOfInput;
@@ -56,6 +56,7 @@ int main(int argc, char *argv[]) {
     fprintf(outputFile, "%d\n", containerSize);
     for (int i = 0; i < shapeContainer->size(); ++i) {
         shapeContainer->shapes[i]->to_string(outputFile);
+        shapeContainer->shapes[i]->to_string();
     }
 
     print_warning("Finalizing program...");

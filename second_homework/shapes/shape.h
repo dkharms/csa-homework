@@ -16,6 +16,8 @@ public:
 
     virtual double calculate_surface_area();
 
+    virtual void to_string();
+
     virtual void to_string(FILE *outputFile);
 };
 

@@ -14,3 +14,8 @@ void tetrahedron::to_string(FILE *outputFile) {
     fprintf(outputFile, "[TETRAHEDRON] Side = %d Surface Area = %lf Density = %lf\n",
             side, calculate_surface_area(), density);
 }
+
+void tetrahedron::to_string() {
+    printf("[TETRAHEDRON] Side = %d Surface Area = %lf Density = %lf\n",
+           side, calculate_surface_area(), density);
+}

@@ -16,4 +16,9 @@ void sphere::to_string(FILE *outputFile) {
             radius, calculate_surface_area(), density);
 }
 
+void sphere::to_string() {
+    printf("[SPHERE] Radius = %d Surface Area = %lf Density = %lf\n",
+           radius, calculate_surface_area(), density);
+}
+
 

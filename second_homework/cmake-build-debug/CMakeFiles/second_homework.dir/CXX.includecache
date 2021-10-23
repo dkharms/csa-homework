@@ -6,6 +6,40 @@
 
 #IncludeRegexTransform: 
 
+/home/dkharms/Documents/cpp_projects/homework/second_homework/container.cpp
+shapes/shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+container.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/container.h
+cstdlib
+/home/dkharms/Documents/cpp_projects/homework/second_homework/cstdlib
+cstdio
+/home/dkharms/Documents/cpp_projects/homework/second_homework/cstdio
+shapes/sphere.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.h
+shapes/tetrahedron.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.h
+shapes/parallelepiped.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.h
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/container.h
+shapes/shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/main.cpp
+iostream
+/home/dkharms/Documents/cpp_projects/homework/second_homework/iostream
+container.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/container.h
+ctime
+/home/dkharms/Documents/cpp_projects/homework/second_homework/ctime
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.cpp
+iostream
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/iostream
+parallelepiped.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.h
+
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/parallelepiped.h
 shape.h
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
@@ -28,9 +62,25 @@ cstring
 cstdio
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cstdio
 
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.cpp
+iostream
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/iostream
+cmath
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cmath
+sphere.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.h
+
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/sphere.h
 shape.h
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.cpp
+tetrahedron.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.h
+shape.h
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/shape.h
+cmath
+/home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/cmath
 
 /home/dkharms/Documents/cpp_projects/homework/second_homework/shapes/tetrahedron.h
 shape.h
