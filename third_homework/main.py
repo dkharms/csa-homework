@@ -2,7 +2,6 @@ import os
 import sys
 import random
 import argparse
-import time
 
 from shapes import *
 from container import Container
