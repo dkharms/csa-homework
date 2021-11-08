@@ -75,4 +75,3 @@ if __name__ == '__main__':
     shape_container = create_container(args.input)
     shape_container.sort()
     write_container_data_to_file(args.output, shape_container)
-    time.sleep(10)
