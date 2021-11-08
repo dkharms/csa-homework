@@ -1,0 +1,5 @@
+[TETRAHEDRON] side = 29.0 | density = 6.301826158064339 | surface_area = 1456.6547291654258
+[TETRAHEDRON] side = 31.0 | density = 77.58681044691204 | surface_area = 1664.500826073691
+[PARALLELEPIPED] width = 76.0 | length = 30.0 | height = 1.0 | density = 33.18282536572145 | surface_area = 4772.0
+[PARALLELEPIPED] width = 11.0 | length = 57.0 | height = 45.0 | density = 49.18539623482433 | surface_area = 7374.0
+[PARALLELEPIPED] width = 51.0 | length = 26.0 | height = 73.0 | density = 53.70917877793675 | surface_area = 13894.0

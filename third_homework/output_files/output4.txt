@@ -1,0 +1,20 @@
+[PARALLELEPIPED] width = 20.0 | length = 13.0 | height = 9.0 | density = 28.081803352723345 | surface_area = 1114.0
+[SPHERE] radius = 17.0 | density = 52.07217218915113 | surface_area = 3631.681107549801
+[TETRAHEDRON] side = 56.0 | density = 80.67900257423139 | surface_area = 5431.711332535999
+[TETRAHEDRON] side = 57.0 | density = 79.3299445586149 | surface_area = 5627.433073791282
+[TETRAHEDRON] side = 58.0 | density = 37.01927729928879 | surface_area = 5826.618916661703
+[TETRAHEDRON] side = 69.0 | density = 7.671448360170463 | surface_area = 8246.293894835424
+[PARALLELEPIPED] width = 41.0 | length = 16.0 | height = 96.0 | density = 64.0704776238663 | surface_area = 12256.0
+[PARALLELEPIPED] width = 20.0 | length = 50.0 | height = 91.0 | density = 13.255167929343814 | surface_area = 14740.0
+[TETRAHEDRON] side = 94.0 | density = 16.117777394607568 | surface_area = 15304.4009356786
+[PARALLELEPIPED] width = 55.0 | length = 62.0 | height = 50.0 | density = 52.32124461509354 | surface_area = 18520.0
+[PARALLELEPIPED] width = 77.0 | length = 13.0 | height = 93.0 | density = 48.967666325358714 | surface_area = 18742.0
+[PARALLELEPIPED] width = 71.0 | length = 90.0 | height = 21.0 | density = 40.223898121651644 | surface_area = 19542.0
+[SPHERE] radius = 44.0 | density = 84.9031473558304 | surface_area = 24328.49350939936
+[SPHERE] radius = 50.0 | density = 32.66253678122407 | surface_area = 31415.926535897932
+[PARALLELEPIPED] width = 80.0 | length = 83.0 | height = 57.0 | density = 91.17730524763562 | surface_area = 31862.0
+[PARALLELEPIPED] width = 85.0 | length = 78.0 | height = 60.0 | density = 69.00415200180086 | surface_area = 32820.0
+[SPHERE] radius = 78.0 | density = 60.72362754006194 | surface_area = 76453.7988177612
+[SPHERE] radius = 89.0 | density = 92.28338463197655 | surface_area = 99538.221636339
+[SPHERE] radius = 96.0 | density = 90.47628622832136 | surface_area = 115811.67158193413
+[SPHERE] radius = 97.0 | density = 54.29085759482647 | surface_area = 118236.98111050545

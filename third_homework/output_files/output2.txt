@@ -1,0 +1,10 @@
+[SPHERE] radius = 9.0 | density = 21.111544932851377 | surface_area = 1017.8760197630929
+[PARALLELEPIPED] width = 22.0 | length = 22.0 | height = 24.0 | density = 59.18758412585498 | surface_area = 3080.0
+[TETRAHEDRON] side = 46.0 | density = 14.006986944334788 | surface_area = 3665.0195088157443
+[SPHERE] radius = 18.0 | density = 7.882974133852294 | surface_area = 4071.5040790523717
+[TETRAHEDRON] side = 58.0 | density = 57.07822614410972 | surface_area = 5826.618916661703
+[TETRAHEDRON] side = 67.0 | density = 38.24299060794467 | surface_area = 7775.17607517669
+[TETRAHEDRON] side = 70.0 | density = 90.78684177761663 | surface_area = 8487.048957087498
+[TETRAHEDRON] side = 96.0 | density = 23.787839822078162 | surface_area = 15962.580242554772
+[SPHERE] radius = 50.0 | density = 25.391161546029995 | surface_area = 31415.926535897932
+[SPHERE] radius = 55.0 | density = 90.39523554158303 | surface_area = 38013.2711084365
