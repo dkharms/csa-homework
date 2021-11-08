@@ -1,0 +1,2 @@
+$ time python main.py -i input_files/random1.txt -o output_files/random1.txt
+python main.py -i input_files/random1.txt -o output_files/random1.txt  0,24s user 0,01s system 99% cpu 0,255 total

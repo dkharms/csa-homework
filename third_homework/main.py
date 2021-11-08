@@ -1,6 +1,8 @@
+import os
 import sys
 import random
 import argparse
+import time
 
 from shapes import *
 from container import Container
@@ -18,9 +20,9 @@ def setup_arg_parser():
 
 def create_shape_random():
     cls_shapes = [Sphere, Parallelepiped, Tetrahedron]
-    shape_args = {'Sphere': [random.random() for _ in range(2)],
-                  'Parallelepiped': [random.random() for _ in range(4)],
-                  'Tetrahedron': [random.random() for _ in range(2)]}
+    shape_args = {'Sphere': [random.random() * 100 for _ in range(2)],
+                  'Parallelepiped': [random.random() * 100 for _ in range(4)],
+                  'Tetrahedron': [random.random() * 100 for _ in range(2)]}
     cls_shape = random.choice(cls_shapes)
 
     return cls_shape(*shape_args[cls_shape.__name__])
@@ -72,5 +74,5 @@ if __name__ == '__main__':
 
     shape_container = create_container(args.input)
     shape_container.sort()
-
     write_container_data_to_file(args.output, shape_container)
+    time.sleep(10)
