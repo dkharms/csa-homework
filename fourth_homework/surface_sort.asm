@@ -11,7 +11,7 @@ calculate_surface_area_tetra:
         vmovsd  qword [rbp-8H], xmm0                    
         vmovsd  xmm0, qword [rbp-8H]                    
         vmulsd  xmm0, xmm0, xmm0                        
-        vmovsd  xmm1, qword [rel ?_001]                 
+        vmovsd  xmm1, qword [rel PI]
         vmulsd  xmm0, xmm0, xmm1                        
         pop     rbp                                     
         ret                                             
@@ -22,7 +22,7 @@ calculate_surface_area_sphere:
         mov     rbp, rsp                                
         vmovsd  qword [rbp-8H], xmm0                    
         vmovsd  xmm1, qword [rbp-8H]                    
-        vmovsd  xmm0, qword [rel ?_002]                 
+        vmovsd  xmm0, qword [rel ROOT]
         vmulsd  xmm0, xmm1, xmm0                        
         vmulsd  xmm0, xmm0, qword [rbp-8H]              
         pop     rbp                                     
@@ -50,8 +50,7 @@ calculate_surface_area_parallelepiped:
 
 SECTION .rodata                         
 
-?_001:                                                  
-        dq 3FFBB67AE8584CAAH                            
+PI:
+        dq 1.73
 
-?_002:  dq 402921FB54442D18H                            
-
+ROOT:  dq 12.56
