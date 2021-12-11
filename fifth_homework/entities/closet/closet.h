@@ -1,7 +1,3 @@
-//
-// Created by dkharms on 11.12.2021.
-//
-
 #ifndef FIFTH_HOMEWORK_CLOSET_H
 #define FIFTH_HOMEWORK_CLOSET_H
 
@@ -9,14 +5,19 @@
 #include "../book/book.h"
 
 class closet {
+    int books_amount_;
     std::vector<book *> books_;
+
 public:
+    closet() = default;
 
-    void set_book(int index, book *new_book) {
-        books_[index] = new_book;
-    }
+    closet(int books_amount);
 
+    book *get_book(int index);
 
+    void add_book(book *new_book);
+
+    bool full();
 };
 
 

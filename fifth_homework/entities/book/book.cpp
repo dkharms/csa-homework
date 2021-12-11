@@ -1,8 +1,6 @@
 #include "book.h"
 
-book::book() {
-
-}
+book::book() = default;
 
 book::book(std::string name, std::string author) {
     this->name_ = name;

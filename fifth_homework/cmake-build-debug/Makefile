@@ -201,30 +201,6 @@ entities/library/library.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/library/library.cpp.s
 .PHONY : entities/library/library.cpp.s
 
-entities/record/record.o: entities/record/record.cpp.o
-.PHONY : entities/record/record.o
-
-# target to build an object file
-entities/record/record.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o
-.PHONY : entities/record/record.cpp.o
-
-entities/record/record.i: entities/record/record.cpp.i
-.PHONY : entities/record/record.i
-
-# target to preprocess a source file
-entities/record/record.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/record/record.cpp.i
-.PHONY : entities/record/record.cpp.i
-
-entities/record/record.s: entities/record/record.cpp.s
-.PHONY : entities/record/record.s
-
-# target to generate assembly for a file
-entities/record/record.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/record/record.cpp.s
-.PHONY : entities/record/record.cpp.s
-
 entities/row/row.o: entities/row/row.cpp.o
 .PHONY : entities/row/row.o
 
@@ -249,29 +225,29 @@ entities/row/row.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s
 .PHONY : entities/row/row.cpp.s
 
-entities/rucksack.o: entities/rucksack.cpp.o
-.PHONY : entities/rucksack.o
+entities/rucksack/rucksack.o: entities/rucksack/rucksack.cpp.o
+.PHONY : entities/rucksack/rucksack.o
 
 # target to build an object file
-entities/rucksack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o
-.PHONY : entities/rucksack.cpp.o
+entities/rucksack/rucksack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o
+.PHONY : entities/rucksack/rucksack.cpp.o
 
-entities/rucksack.i: entities/rucksack.cpp.i
-.PHONY : entities/rucksack.i
+entities/rucksack/rucksack.i: entities/rucksack/rucksack.cpp.i
+.PHONY : entities/rucksack/rucksack.i
 
 # target to preprocess a source file
-entities/rucksack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.i
-.PHONY : entities/rucksack.cpp.i
+entities/rucksack/rucksack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.i
+.PHONY : entities/rucksack/rucksack.cpp.i
 
-entities/rucksack.s: entities/rucksack.cpp.s
-.PHONY : entities/rucksack.s
+entities/rucksack/rucksack.s: entities/rucksack/rucksack.cpp.s
+.PHONY : entities/rucksack/rucksack.s
 
 # target to generate assembly for a file
-entities/rucksack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.s
-.PHONY : entities/rucksack.cpp.s
+entities/rucksack/rucksack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.s
+.PHONY : entities/rucksack/rucksack.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -315,15 +291,12 @@ help:
 	@echo "... entities/library/library.o"
 	@echo "... entities/library/library.i"
 	@echo "... entities/library/library.s"
-	@echo "... entities/record/record.o"
-	@echo "... entities/record/record.i"
-	@echo "... entities/record/record.s"
 	@echo "... entities/row/row.o"
 	@echo "... entities/row/row.i"
 	@echo "... entities/row/row.s"
-	@echo "... entities/rucksack.o"
-	@echo "... entities/rucksack.i"
-	@echo "... entities/rucksack.s"
+	@echo "... entities/rucksack/rucksack.o"
+	@echo "... entities/rucksack/rucksack.i"
+	@echo "... entities/rucksack/rucksack.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
