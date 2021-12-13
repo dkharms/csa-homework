@@ -81,12 +81,12 @@ clean: CMakeFiles/fifth_homework.dir/clean
 CMakeFiles/fifth_homework.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fifth_homework.dir/build.make CMakeFiles/fifth_homework.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target fifth_homework"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target fifth_homework"
 .PHONY : CMakeFiles/fifth_homework.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fifth_homework.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/fifth_homework.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/fifth_homework.dir/rule

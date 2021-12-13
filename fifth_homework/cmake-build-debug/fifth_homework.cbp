@@ -100,19 +100,16 @@
 		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/library/library.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/record/record.cpp">
-			<Option target="fifth_homework"/>
-		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/record/record.h">
-			<Option target="fifth_homework"/>
-		</Unit>
 		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
 		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp">
+			<Option target="fifth_homework"/>
+		</Unit>
+		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.h">
 			<Option target="fifth_homework"/>
 		</Unit>
 		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/main.cpp">

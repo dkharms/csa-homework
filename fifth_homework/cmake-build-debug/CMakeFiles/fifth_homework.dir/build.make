@@ -92,9 +92,22 @@ CMakeFiles/fifth_homework.dir/entities/book/book.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/book/book.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/book/book.cpp -o CMakeFiles/fifth_homework.dir/entities/book/book.cpp.s
 
+CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
+CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o: ../entities/rucksack/rucksack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp
+
+CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp > CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.i
+
+CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp -o CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.s
+
 CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
 CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o: ../entities/closet/closet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/closet/closet.cpp
 
 CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.i: cmake_force
@@ -104,19 +117,6 @@ CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.i: cmake_force
 CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/closet/closet.cpp -o CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.s
-
-CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
-CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o: ../entities/row/row.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp
-
-CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp > CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i
-
-CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp -o CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s
 
 CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
 CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o: ../entities/library/library.cpp
@@ -131,55 +131,40 @@ CMakeFiles/fifth_homework.dir/entities/library/library.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/library/library.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/library/library.cpp -o CMakeFiles/fifth_homework.dir/entities/library/library.cpp.s
 
-CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
-CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o: ../entities/record/record.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/record/record.cpp
+CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
+CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o: ../entities/row/row.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp
 
-CMakeFiles/fifth_homework.dir/entities/record/record.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fifth_homework.dir/entities/record/record.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/record/record.cpp > CMakeFiles/fifth_homework.dir/entities/record/record.cpp.i
+CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp > CMakeFiles/fifth_homework.dir/entities/row/row.cpp.i
 
-CMakeFiles/fifth_homework.dir/entities/record/record.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/record/record.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/record/record.cpp -o CMakeFiles/fifth_homework.dir/entities/record/record.cpp.s
-
-CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o: CMakeFiles/fifth_homework.dir/flags.make
-CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o: ../entities/rucksack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o -c /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack.cpp
-
-CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack.cpp > CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.i
-
-CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack.cpp -o CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.s
+CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp -o CMakeFiles/fifth_homework.dir/entities/row/row.cpp.s
 
 # Object files for target fifth_homework
 fifth_homework_OBJECTS = \
 "CMakeFiles/fifth_homework.dir/main.cpp.o" \
 "CMakeFiles/fifth_homework.dir/entities/book/book.cpp.o" \
+"CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o" \
 "CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o" \
-"CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o" \
 "CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o" \
-"CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o" \
-"CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o"
+"CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o"
 
 # External object files for target fifth_homework
 fifth_homework_EXTERNAL_OBJECTS =
 
 fifth_homework: CMakeFiles/fifth_homework.dir/main.cpp.o
 fifth_homework: CMakeFiles/fifth_homework.dir/entities/book/book.cpp.o
+fifth_homework: CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o
 fifth_homework: CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o
-fifth_homework: CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o
 fifth_homework: CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o
-fifth_homework: CMakeFiles/fifth_homework.dir/entities/record/record.cpp.o
-fifth_homework: CMakeFiles/fifth_homework.dir/entities/rucksack.cpp.o
+fifth_homework: CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o
 fifth_homework: CMakeFiles/fifth_homework.dir/build.make
 fifth_homework: CMakeFiles/fifth_homework.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable fifth_homework"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable fifth_homework"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/fifth_homework.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
