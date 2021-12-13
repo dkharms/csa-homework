@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/book/book.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/book/book.cpp.o"
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/closet/closet.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o"
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/library/library.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o"
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o"
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o"
-  "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/main.cpp" "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/CMakeFiles/fifth_homework.dir/main.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/entities/book/book.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/book/book.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/entities/closet/closet.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/closet/closet.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/entities/library/library.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/library/library.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/entities/row/row.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/row/row.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/entities/rucksack/rucksack.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/entities/rucksack/rucksack.cpp.o"
+  "/home/dkharms/Documents/cpp_projects/testing_repo/main.cpp" "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/CMakeFiles/fifth_homework.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

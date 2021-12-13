@@ -1,20 +1,26 @@
-#ifndef FIFTH_HOMEWORK_LIBRARY_H
-#define FIFTH_HOMEWORK_LIBRARY_H
+//
+// Created by dkharms on 13.12.2021.
+//
 
-#include <vector>
+#ifndef FIFTH_HOMEWORK_ENTITIES_LIBRARY_LIBRARY_H_
+#define FIFTH_HOMEWORK_ENTITIES_LIBRARY_LIBRARY_H_
+
 #include "../row/row.h"
 
 class library {
-    int rows_amount_, closets_amount_, books_amount_;
+    int rows_amount, closets_amount, books_amount;
+    row **rows;
 
     void init();
-
 public:
+
     library(int rows_amount, int closets_amount, int books_amount);
 
-    std::vector<row *> rows;
+    row *get_row(int index);
 
+    int amount();
+
+    ~library();
 };
 
-
-#endif //FIFTH_HOMEWORK_LIBRARY_H
+#endif //FIFTH_HOMEWORK_ENTITIES_LIBRARY_LIBRARY_H_

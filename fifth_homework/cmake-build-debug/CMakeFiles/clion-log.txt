@@ -1,4 +1,4 @@
-/home/dkharms/Programs/CLion-2021.2.2/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework
+/home/dkharms/Programs/CLion-2021.2.2/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/dkharms/Documents/cpp_projects/testing_repo
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug
+-- Build files have been written to: /home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug

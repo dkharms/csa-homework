@@ -1,18 +1,28 @@
-#ifndef FIFTH_HOMEWORK_ROW_H
-#define FIFTH_HOMEWORK_ROW_H
+//
+// Created by dkharms on 13.12.2021.
+//
 
-#include <vector>
+#ifndef FIFTH_HOMEWORK_ENTITIES_ROW_ROW_H_
+#define FIFTH_HOMEWORK_ENTITIES_ROW_ROW_H_
+
 #include "../closet/closet.h"
 
 class row {
-    int closets_amount_, books_amount_;
-
+private:
+    int books_amount, closets_amount, current_index;
+    closet **closets;
     void init();
 
 public:
-    explicit row(int closets_amount, int books_amount);
+    row(int closets_amount, int books_amount);
 
-    std::vector<closet *> closets;
+    closet *get_closet(int index);
+
+    int amount();
+
+    void output(std::fstream &output_stream);
+
+    ~row();
 };
 
-#endif //FIFTH_HOMEWORK_ROW_H
+#endif //FIFTH_HOMEWORK_ENTITIES_ROW_ROW_H_

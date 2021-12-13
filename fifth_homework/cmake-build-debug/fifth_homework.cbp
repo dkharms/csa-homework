@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug"/>
+				<Option working_dir="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug"/>
+				<Option working_dir="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug"/>
+				<Option working_dir="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="fifth_homework">
-				<Option output="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/fifth_homework" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug"/>
+				<Option output="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/fifth_homework" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 fifth_homework"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fifth_homework"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="fifth_homework/fast">
-				<Option output="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/fifth_homework" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug"/>
+				<Option output="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/fifth_homework" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,47 +75,47 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 fifth_homework/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fifth_homework/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/book/book.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/book/book.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/book/book.h">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/book/book.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/closet/closet.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/closet/closet.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/closet/closet.h">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/closet/closet.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/library/library.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/library/library.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/library/library.h">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/library/library.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/row/row.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/row/row.h">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/row/row.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/rucksack/rucksack.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/entities/rucksack/rucksack.h">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/entities/rucksack/rucksack.h">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/main.cpp">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/main.cpp">
 			<Option target="fifth_homework"/>
 		</Unit>
-		<Unit filename="/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/CMakeLists.txt">
+		<Unit filename="/home/dkharms/Documents/cpp_projects/testing_repo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

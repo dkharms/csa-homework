@@ -1,4 +1,4 @@
-# Install script for directory: /home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework
+# Install script for directory: /home/dkharms/Documents/cpp_projects/testing_repo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dkharms/Documents/cpp_projects/csa_homework/fifth_homework/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dkharms/Documents/cpp_projects/testing_repo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
